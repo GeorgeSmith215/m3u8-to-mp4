@@ -27,7 +27,7 @@ class M3u8ConverterApp:
                 "label_out": " 2. 输出 MP4 保存路径 ",
                 "btn_browse_out": "选择保存位置",
                 "cb_compat": "启用兼容性模式 (视频重编码，解决无法快进/音画不同步，速度较慢)",
-                "cb_lang": "Show English Interface (显示英文文界面)",
+                "cb_lang": "Show English Interface (显示英文界面)",
                 "btn_start": "开始转换",
                 "btn_running": "正在转换中...",
                 "label_log": " 3. 转换日志实时输出 ",
